@@ -1,0 +1,36 @@
+<svg viewBox="0 0 48 32" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<radialGradient id="l-gradient" class="gradient"
+				cx="0.5" cy="0.5" r=".5" fx="0.85" fy="0.2">
+			<stop offset="0%" stop-color="lightskyblue"/>
+			<stop offset="100%" stop-color="deepskyblue"/>
+		</radialGradient>
+	</defs>
+
+	<path d="
+		M 4 0
+		h 20
+		v 12
+		l -4 4
+		h -12
+		v 4
+		l 4 -4
+		h 12
+		v 12
+		l -4 4
+		h -20
+		v -28
+		z
+		M 24 4
+		l 4 -4
+		h 20
+		v 12
+		l -4 4
+		v 12
+		l -4 4
+		h -12
+		v -16
+		h -4
+		z"
+	fill="url(#l-gradient)" />
+</svg>
