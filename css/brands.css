@@ -44,7 +44,7 @@ button {
   letter-spacing: 0.1px;
   white-space: wrap;
   outline: none;
-  border-radius: 8px;
+  border-radius: 22px;
   cursor: pointer;
   
 }     
@@ -80,7 +80,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: deepskyblue;
 }
 .button.button-default:hover,
 .button.button-default:focus {
