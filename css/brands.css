@@ -44,10 +44,13 @@ button {
   letter-spacing: 0.1px;
   white-space: wrap;
   outline: none;
-  border-radius: 22px;
+  border-radius: 7px;
   cursor: pointer;
   
 }     
+.button {
+  border: 1px solid rgba(0,0,0,0.5);
+}
 button:hover,
 .button:focus {
   color: #212121;
@@ -80,7 +83,8 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: deepskyblue;
+  background-color: rgba(255,255,255,0.05);
+  border: 1px solid rgba(0,0,0,0.5);
 }
 .button.button-default:hover,
 .button.button-default:focus {

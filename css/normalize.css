@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  background: center / cover no-repeat url('../images/film-gradient_bg.jpg') fixed;
 }
 
 /* HTML5 display definitions

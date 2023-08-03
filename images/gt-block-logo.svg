@@ -2,8 +2,8 @@
 	<defs>
 		<radialGradient id="l-gradient" class="gradient"
 				cx="0.5" cy="0.5" r=".5" fx="0.85" fy="0.2">
-			<stop offset="0%" stop-color="lightskyblue"/>
-			<stop offset="100%" stop-color="deepskyblue"/>
+			<stop offset="0%" stop-color="#17383a"/>
+			<stop offset="100%" stop-color="#002848"/>
 		</radialGradient>
 	</defs>
 
